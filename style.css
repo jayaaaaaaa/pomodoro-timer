@@ -1,0 +1,40 @@
+body {
+    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' version='1.1' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns:svgjs='http://svgjs.com/svgjs' width='1920' height='1080' preserveAspectRatio='none' viewBox='0 0 1920 1080'%3e%3cg mask='url(%26quot%3b%23SvgjsMask1003%26quot%3b)' fill='none'%3e%3crect width='1920' height='1080' x='0' y='0' fill='rgba(35%2c 200%2c 189%2c 1)'%3e%3c/rect%3e%3cpath d='M1187.813%2c347.041C1220.269%2c347.575%2c1239.649%2c314.976%2c1255.893%2c286.873C1272.157%2c258.735%2c1290.574%2c225.766%2c1274.107%2c197.746C1257.755%2c169.922%2c1219.996%2c168.617%2c1187.813%2c171.03C1160.511%2c173.077%2c1134.842%2c185.371%2c1121.36%2c209.201C1108.074%2c232.685%2c1111.79%2c260.39%2c1123.507%2c284.695C1137.403%2c313.519%2c1155.818%2c346.515%2c1187.813%2c347.041' fill='rgba(28%2c 83%2c 142%2c 0.4)' class='triangle-float3'%3e%3c/path%3e%3cpath d='M230.883%2c522.381C307.373%2c521.96%2c362.925%2c457.124%2c398.819%2c389.578C432.152%2c326.853%2c438.579%2c254.564%2c407.021%2c190.927C371.309%2c118.913%2c311.078%2c56.43%2c230.883%2c50.934C141.655%2c44.819%2c47.467%2c83.624%2c7.298%2c163.533C-30.228%2c238.183%2c15.528%2c320.533%2c59.711%2c391.446C100.427%2c456.794%2c153.89%2c522.805%2c230.883%2c522.381' fill='rgba(28%2c 83%2c 142%2c 0.4)' class='triangle-float3'%3e%3c/path%3e%3cpath d='M772.58 688.43 a317.38 317.38 0 1 0 634.76 0 a317.38 317.38 0 1 0 -634.76 0z' fill='rgba(28%2c 83%2c 142%2c 0.4)' class='triangle-float3'%3e%3c/path%3e%3cpath d='M1188.241%2c786.975C1298.765%2c788.399%2c1401.6%2c725.474%2c1453.628%2c627.951C1502.941%2c535.517%2c1487.982%2c422.309%2c1428.97%2c335.744C1376.734%2c259.119%2c1280.935%2c241.432%2c1188.241%2c238.654C1088.482%2c235.664%2c976.32%2c237.356%2c921.15%2c320.525C861.699%2c410.147%2c880.997%2c527.932%2c934.438%2c621.263C988.248%2c715.238%2c1079.959%2c785.58%2c1188.241%2c786.975' fill='rgba(28%2c 83%2c 142%2c 0.4)' class='triangle-float3'%3e%3c/path%3e%3cpath d='M1853.294%2c1247.696C1954.344%2c1247.676%2c2056.417%2c1205.615%2c2103.796%2c1116.361C2148.932%2c1031.331%2c2112.455%2c933.266%2c2064.519%2c849.783C2016.318%2c765.839%2c1949.858%2c686.831%2c1853.294%2c680.098C1745.758%2c672.6%2c1637.744%2c722.812%2c1584.048%2c816.284C1530.527%2c909.452%2c1545.736%2c1025.307%2c1602.624%2c1116.458C1656.145%2c1202.214%2c1752.207%2c1247.716%2c1853.294%2c1247.696' fill='rgba(28%2c 83%2c 142%2c 0.4)' class='triangle-float3'%3e%3c/path%3e%3cpath d='M1316.67%2c913.892C1395.659%2c914.944%2c1489.693%2c923.149%2c1529.824%2c855.106C1570.255%2c786.555%2c1521.983%2c705.32%2c1479.303%2c638.146C1440.748%2c577.465%2c1388.319%2c525.554%2c1316.67%2c519.629C1233.409%2c512.743%2c1143.524%2c535.647%2c1099.659%2c606.75C1054.043%2c680.69%2c1062.998%2c778.6%2c1113.131%2c849.555C1157.139%2c911.841%2c1240.413%2c912.876%2c1316.67%2c913.892' fill='rgba(28%2c 83%2c 142%2c 0.4)' class='triangle-float2'%3e%3c/path%3e%3c/g%3e%3cdefs%3e%3cmask id='SvgjsMask1003'%3e%3crect width='1920' height='1080' fill='white'%3e%3c/rect%3e%3c/mask%3e%3cstyle%3e %40keyframes float1 %7b 0%25%7btransform: translate(0%2c 0)%7d 50%25%7btransform: translate(-10px%2c 0)%7d 100%25%7btransform: translate(0%2c 0)%7d %7d .triangle-float1 %7b animation: float1 5s infinite%3b %7d %40keyframes float2 %7b 0%25%7btransform: translate(0%2c 0)%7d 50%25%7btransform: translate(-5px%2c -5px)%7d 100%25%7btransform: translate(0%2c 0)%7d %7d .triangle-float2 %7b animation: float2 4s infinite%3b %7d %40keyframes float3 %7b 0%25%7btransform: translate(0%2c 0)%7d 50%25%7btransform: translate(0%2c -10px)%7d 100%25%7btransform: translate(0%2c 0)%7d %7d .triangle-float3 %7b animation: float3 6s infinite%3b %7d %3c/style%3e%3c/defs%3e%3c/svg%3e");
+    background-size: auto;
+    background-attachment: fixed;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+button {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background: transparent;
+    border: 0px;
+    padding: 0em 1em;
+    box-shadow: rgba(33, 35, 38, 0.1) 0px 10px 10px -10px;
+}
+
+.wrapper {
+    max-width: max-content;
+    padding: 1em;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.center {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+#info {
+    font-size: small;
+}
+
+#timer {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 16em;
+    font-weight: bolder;
+    color: rgb(17, 48, 80);
+}
